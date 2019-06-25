@@ -16,7 +16,7 @@ public class KthNode {
         return result[0];
     }
 
-    //先序遍历
+    //中序遍历
     private void preOrder(TreeNode pRoot, int k, int[] count, TreeNode[] result) {
         if (null == pRoot || result[0] != null) {
             return;
