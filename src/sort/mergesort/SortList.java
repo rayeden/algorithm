@@ -1,4 +1,4 @@
-package sort.mergeSort;
+package sort.mergesort;
 
 /**
  * @author Sesame
